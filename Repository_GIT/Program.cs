@@ -8,7 +8,7 @@ namespace ConsoleApp3
         {
 
             Console.WriteLine("Hello Mati, its Bartek");
-        
+        mam długą pałe <3
            
         }
         
